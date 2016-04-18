@@ -38,8 +38,11 @@ set nu
 You'll need to install golang vim bundles to make life nice and easy:
 
 [Vim Fugitive](https://github.com/tpope/vim-fugitive)
+
 [Nerd Tree](https://github.com/scrooloose/nerdtree)
+
 [Vim-go](https://github.com/fatih/vim-go)
+
 [Syntastic](https://github.com/scrooloose/syntastic)
 
 * Set up zsh (or bash if you prefer) to use project specific GOPATHs:
